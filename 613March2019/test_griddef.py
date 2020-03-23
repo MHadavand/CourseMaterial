@@ -13,6 +13,8 @@ For pytest, the test runner is called
     >>> python -m pytest --doctest-modules
 
 Note: -v is used to get a list of tests being executed.
+
+I have a comment
 '''
 
 class GridDefTest(unittest.TestCase):
